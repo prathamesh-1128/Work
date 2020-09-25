@@ -1,0 +1,36 @@
+Dear Reader,
+Please hold on! I know many people typically do not read the Preface of a book. But I strongly
+recommend that you read this particular Preface.
+It is not the main objective of this book to present you with the theorems and proofs on data
+structures and algorithms. I have followed a pattern of improving the problem solutions with
+different complexities (for each problem, you will find multiple solutions with different, and
+reduced, complexities). Basically, it’s an enumeration of possible solutions. With this approach,
+even if you get a new question, it will show you a way to think about the possible solutions. You
+will find this book useful for interview preparation, competitive exams preparation, and campus
+interview preparations.
+As a job seeker, if you read the complete book, I am sure you will be able to challenge the
+interviewers. If you read it as an instructor, it will help you to deliver lectures with an approach
+that is easy to follow, and as a result your students will appreciate the fact that they have opted for
+Computer Science / Information Technology as their degree.
+This book is also useful for Engineering degree students and Masters degree students during
+their academic preparations. In all the chapters you will see that there is more emphasis on
+problems and their analysis rather than on theory. In each chapter, you will first read about the
+basic required theory, which is then followed by a section on problem sets. In total, there are
+approximately 700 algorithmic problems, all with solutions.
+If you read the book as a student preparing for competitive exams for Computer Science /
+Information Technology, the content covers all the required topics in full detail. While writing
+this book, my main focus was to help students who are preparing for these exams.
+In all the chapters you will see more emphasis on problems and analysis rather than on theory. In
+each chapter, you will first see the basic required theory followed by various problems.
+For many problems, multiple solutions are provided with different levels of complexity. We start
+with the brute force solution and slowly move toward the best solution possible for that problem.
+For each problem, we endeavor to understand how much time the algorithm takes and how much
+memory the algorithm uses.
+It is recommended that the reader does at least one complete reading of this book to gain a full
+understanding of all the topics that are covered. Then, in subsequent readings you can skip
+directly to any chapter to refer to a specific topic. Even though many readings have been done for
+the purpose of correcting errors, there could still be some minor typos in the book. If any are
+found, they will be updated at www.CareerMonk.com. You can monitor this site for any
+corrections and also for new problems and solutions. Also, please provide your valuable
+suggestions at: Info@CareerMonk.com.
+I wish you all the best and I am confident t
